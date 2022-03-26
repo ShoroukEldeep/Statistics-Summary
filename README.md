@@ -5,6 +5,7 @@
 
 ### This Summary includes:
 > - Introduction
+> - Descriptive Statistics
 > - Statistical concepts
 > - How to measure central tendency ?
 > - How to measure variability?
